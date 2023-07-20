@@ -1,0 +1,31 @@
+body {
+    background-color: #f4f5f6;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#logodm {
+    width: 100px;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+  
+#estreladedavi {
+    width: 130px;
+    height: auto;
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+#ordemeprogresso {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25%;
+    border: 2px;
+}
